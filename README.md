@@ -1,4 +1,3 @@
-# Image-optimization-service-
+## Image-optimization-service- (pour build le container)
 
-
-Lancez "docker build -t image_optimizer:1 ." pour build le container
+docker build -t image_optimizer:1 
